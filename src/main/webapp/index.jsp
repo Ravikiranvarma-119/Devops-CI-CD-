@@ -571,7 +571,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>RKV ROOM 2026 Premium Collection </h1>
-                         <p>Discover the latest trends in fashion, technology and accessories curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
+                         <p>Discover the latest trends in fashion, technology and Photography curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
@@ -747,8 +747,8 @@
                 icon: 'fa-shoe-prints'
             },
             {
-                id: 'accessories',
-                name: 'Accessories',
+                id: 'Photography',
+                name: 'Photography',
                 icon: 'fa-watch'
             }
         ];
@@ -782,7 +782,7 @@
                 reviews: 214,
                 badge: '-25%',
                 img: 'https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?auto=format&fit=crop&w=600&q=80',
-                category: 'accessories'
+                category: 'Photography'
             },
             {
                 id: 4,
@@ -809,7 +809,7 @@
                 rating: 5,
                 reviews: 189,
                 img: 'https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=600&q=80',
-                category: 'accessories'
+                category: 'Photography'
             },
             {
                 id: 7,
@@ -819,7 +819,7 @@
                 rating: 4,
                 reviews: 67,
                 img: 'https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=600&q=80',
-                category: 'accessories'
+                category: 'Photography'
             },
             {
                 id: 8,
